@@ -1,0 +1,11 @@
+.box  {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: transform 1s, background-color 1s;
+    margin-top: 50px;
+}
+.box-animation {
+    transform:  rotate(36deg);
+    background-color: rgb(238, 255, 0);
+}
